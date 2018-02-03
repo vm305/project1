@@ -45,7 +45,4 @@ if __name__ == "__main__":
     bst_node = BST()
     bst_node.insert(6)
     bst_node.insert(2)
-    bst_node.insert(8)
-    bst_node.insert(7)
-    bst_node.insert(1)
     bst_node.print_inorder()
