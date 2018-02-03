@@ -29,7 +29,8 @@ class BST:
             elif(data < temp.data):
                 temp = temp.left
     
-
+    def search(self,data):
+        pass
     
     def print_inorder(self):
         print "*******"
